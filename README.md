@@ -3,7 +3,7 @@
 Development/Application Architecture / BPM Driven
  Automation/ API management/ Identity and Privilege Access 
 Management/ Banking/ Cloud Computing/ Role Management/ Full Stack Development/ Big Data/
-DevSecOps/ CICD / SRE
+DevSecOps/ CICD / SRE.
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on [judebantony](https://www.linkedin.com/in/jude-antony-2b208219/)
 - 📫 How to reach me + 91 9980122558
