@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @judebantony
 - 👀 I’m a visionary and hands-on technology leader with deep expertise in Generative AI & Agentic AI, Cloud & Platform Engineering, Software Development, Developer Experience & Productivity, DevSecOps, Cloud-Native Development, CI/CD & SDLC Automation, Infrastructure Automation, Controls Automation, Business Process Modeling, Big Data and IAM & PAM.
 
-Currently, I serve as Chief Development Officer at Wells Fargo India & Philippines, where I globally lead high-performing engineering teams building a hyper-scale DevEx platform supporting over 25,000 developers across the organization. I’m passionate about innovation, automation, and engineering excellence—driving initiatives that leverage Agentic AI and automation to accelerate developer productivity at scale. I’m also an active Open Source contributor, advocating for collaboration and knowledge sharing in the global tech community.
+- ✨ I’m passionate about innovation, automation, and engineering excellence—driving initiatives that leverage Agentic AI and automation to accelerate developer productivity at scale. I’m also an active Open Source contributor, advocating for collaboration and knowledge sharing in the global tech community.
 
-Key Focus Areas:
+- 🚀 Key Focus Areas:
 🔹 Product & Platform Engineering – Building future-ready DevEx and Cloud Platforms for global teams.
 🔹 GenAI & Agentic AI – Powering engineering productivity and intelligent developer workflows.
 🔹 Developer Experience & Productivity – Optimizing engineering velocity and time-to-market.
