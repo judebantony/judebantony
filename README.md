@@ -18,7 +18,6 @@
 🔹 Tech Citizenship & Open Source – Championing OSS, mentoring talent, and contributing to the community.
 
 A passionate advocate for developer empowerment and technology excellence, I thrive on building strong engineering cultures that deliver tangible business outcomes and enterprise innovation.
-- 🌱 I’m currently learning Context Engineering
 - 💞️ I’m looking to collaborate on [judebantony](https://www.linkedin.com/in/jude-antony-2b208219/)
 - 📫 How to reach me + 91 9980122558
 
