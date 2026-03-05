@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judebantony
-- 👀 I’m a visionary and hands-on technology leader with deep expertise in Generative AI & Agentic AI, Cloud & Platform Engineering, Software Development, Developer Experience & Productivity, DevSecOps, Cloud-Native Development, CI/CD & SDLC Automation, Infrastructure Automation, Controls Automation, Business Process Modeling, Big Data and IAM & PAM.
+- 👀 I’m a visionary and hands-on technology leader with deep expertise in Generative AI & Agentic AI, Cloud & Platform Engineering, Product Engineering, Software Development, Developer Experience & Productivity, DevSecOps, Full Stack Development, Cloud-Native Development, CI/CD & SDLC Automation, Infrastructure Automation, Controls Automation, Business Process Modeling, Compliance & Security Automation, Big Data and IAM & PAM.
 
 - ✨ I’m passionate about innovation, automation, and engineering excellence—driving initiatives that leverage Agentic AI and automation to accelerate developer productivity at scale. I’m also an active Open Source contributor, advocating for collaboration and knowledge sharing in the global tech community.
 
