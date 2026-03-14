@@ -1,7 +1,7 @@
 👋 Hi, I’m @judebantony
 
-🚀 Technology Leader | Platform Engineer | GenAI & Agentic AI Innovator
------------------------------------------------------------------------
+🚀 Technology Leader | Product & Platform Engineering | GenAI & Agentic AI Innovator | Full Stack & Cloud-Native Development
+----------------------------------------------------------------------------------------------------------------------------
 I’m a visionary and hands-on engineering leader with deep expertise in Generative AI & Agentic AI, Platform Engineering, Product Engineering, Developer Experience, and Cloud-Native systems.
 Over the past 20+ years, I have built and scaled enterprise platforms, developer ecosystems, and cloud-native products used by thousands of engineers across global organizations.
 
